@@ -1,3 +1,4 @@
 *.h5
 Image_caption_generator/data/features.pkl
 Image_caption_generator/archive
+*.pth
